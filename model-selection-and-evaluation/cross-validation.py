@@ -17,3 +17,7 @@ import numpy as numpy
 from sklearn import cross_validation
 from sklearn import datasets
 from sklearn import svm
+
+# ----------------
+# OBTAIN DATA
+# ----------------
