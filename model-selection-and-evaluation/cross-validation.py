@@ -21,3 +21,5 @@ from sklearn import svm
 # ----------------
 # OBTAIN DATA
 # ----------------
+
+iris = datasets.load_iris()
